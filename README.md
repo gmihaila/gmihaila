@@ -10,10 +10,10 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 ## **Contact**
 
-:cat: GitHub: [gmihaila](https://github.com/gmihaila){:target="_blank"}
+:cat: GitHub: [gmihaila](https://github.com/gmihaila)
 
-:necktie: LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge){:target="_blank"}
+:necktie: LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge)
 
 :mailbox_with_mail: Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
 
-:busts_in_silhouette: Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila){:target="_blank"}
+:busts_in_silhouette: Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila)
