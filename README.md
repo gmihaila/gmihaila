@@ -8,7 +8,7 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 **Competencies:** *Data Science, parallel computing,  Tensorflow2.0, PyTorch, Python, R, Java, Matlab.*
 
-## **Contact**
+## **Contact :fishing_pole_and_fish:** 
 
 :earth_americas: Website: [gmihaila.github.io](https://gmihaila.github.io)
 
