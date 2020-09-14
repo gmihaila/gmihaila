@@ -10,7 +10,7 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 ## **Contact**
 
-:cat: GitHub: [gmihaila](https://github.com/gmihaila)
+:earth_americas: Website: [gmihaila.github.io](https://gmihaila.github.io)
 
 :necktie: LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge)
 
