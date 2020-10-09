@@ -6,7 +6,7 @@ He worked three summers for State Farm as a Data Scientist (DS) and Machine Lear
 
 He is currently working towards his doctoral thesis in casual dialog generation with persona.
 
-**Competencies:** *Data Science, parallel computing,  Tensorflow2.0, PyTorch, Python, R, Java, Matlab.*
+**Competencies:** *data science, machine learning, deep learning, high performance computing, Tensorflow2.0, PyTorch, Python, R.*
 
 ## **Contact :fishing_pole_and_fish:** 
 
