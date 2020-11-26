@@ -20,4 +20,4 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 📬 Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
 
-👤 Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila){:target="_blank"}
+👤 Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila)
