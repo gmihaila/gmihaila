@@ -8,12 +8,16 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 **Competencies:** *data science, machine learning, deep learning, high performance computing, Tensorflow2.0, PyTorch, Python, R.*
 
-## **Contact :fishing_pole_and_fish:** 
+## **Contact** 🎣
 
-:earth_americas: Website: [gmihaila.github.io](https://gmihaila.github.io)
+🦊 GitHub: [gmihaila](https://github.com/gmihaila)
 
-:necktie: LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge)
+🌐 Website: [gmihaila.github.io](https://gmihaila.github.io/)
 
-:mailbox_with_mail: Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
+👔 LinkedIn: [mihailageorge](https://www.linkedin.com/in/mihailageorge/)
 
-:busts_in_silhouette: Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila)
+📓 Medium: [@gmihaila](https://gmihaila.medium.com)
+
+📬 Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
+
+👤 Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila){:target="_blank"}
