@@ -1,4 +1,7 @@
-# **About me :speech_balloon:**
+
+# **About me :speech_balloon:** ![](https://github-readme-stats.vercel.app/api?username=gmihaila&show_icons=true&hide_title=true)
+
+
 
 George is a PhD candidate at University of North Texas, in the Department of Computer Science. He received his Bachelors Degree in Electrical Engineering in his home-country, Romania, and he got his Masters Degree in Computer Science in the United States. 
 
