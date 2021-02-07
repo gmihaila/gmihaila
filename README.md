@@ -8,6 +8,8 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 
 **Competencies:** *data science, machine learning, deep learning, high performance computing, Tensorflow2.0, PyTorch, Python, R.*
 
+<img src="https://github-readme-stats.vercel.app/api?username=gmihaila&show_icons=true&hide_title=true"/>  
+
 ## **Contact** 🎣
 
 🦊 GitHub: [gmihaila](https://github.com/gmihaila)
