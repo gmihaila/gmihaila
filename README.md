@@ -24,5 +24,3 @@ He is currently working towards his doctoral thesis in casual dialog generation 
 📓 Medium: [@gmihaila](https://gmihaila.medium.com)
 
 📬 Email: [georgemihaila@my.unt.edu.com](mailto:georgemihaila@my.unt.edu.com?subject=GitHub%20Website)
-
-👤 Schedule meeting: [calendly.com/georgemihaila](https://calendly.com/georgemihaila)
